@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mreza-Azaddel
-- 👀 I’m interested in HVAC and Coding
+- 👀 I’m interested in HVAC, Heat Transfer, and Coding
 - 🌱 I’m currently researching on HXs
 - 📫 How to reach me: mazaddel24@gmail.com
 
